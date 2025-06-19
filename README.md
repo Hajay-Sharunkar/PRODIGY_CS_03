@@ -37,5 +37,5 @@ _(Replace the URL after deploying on Streamlit Cloud)_
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/PRODIGY_CS_03.git
+git clone https://github.com/Hajay-Sharunkar/PRODIGY_CS_03.git
 cd PRODIGY_CS_03
